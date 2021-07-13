@@ -1,2 +1,2 @@
 # dustingoerndt
-About me...
+About me.
